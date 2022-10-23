@@ -1,4 +1,4 @@
-oop-counter2.netlify.app
+https://oop-counter2.netlify.app/
 
 Object Oriented Programming in JavaScript.
 
